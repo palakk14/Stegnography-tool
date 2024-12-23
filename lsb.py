@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 #
-# Copyright(C) 2021 wuyaoping
-#
 # LSB algorithm has a great capacity but fragile.
 
 import cv2
