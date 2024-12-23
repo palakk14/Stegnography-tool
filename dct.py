@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 #
-# Copyright(C) 2021 wuyaoping
-#
 # DCT algorithm has great a robust but lower capacity.
 
 import numpy as np
